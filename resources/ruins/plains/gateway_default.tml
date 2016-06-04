@@ -1,9 +1,9 @@
-# Schematic Name:	"Gateway (Default)"
-# Category:			Ruins
-# Theme:			Ancient
-# Size:				Small
-# Author:			Denneran
-# Converted by: 	Vico
+# Nome: Gateway (Default)
+# Categoria: Ruínas Antigas 
+# Tamanho: Pequeno 
+# Autor: Denneran
+# URL: n/a
+# Convertido por: Vico
 
 biomesToSpawnIn=plains,forest,taiga,birch forest,savanna,sunflower plains,flower forest,birch forest m,owg_forest,owg_plains,owg_classic,rwg_plains,rwg_temperateforest
 weight=16

@@ -4,9 +4,9 @@
 # Autor: d00dv4d3r
 # Adaptado por: Vico
 
-biomesToSpawnIn=Beach
+biomesToSpawnIn=beach,cold beach,stone beach
 
-weight=8
+weight=10
 embed_into_distance=0
 
 acceptable_target_blocks=sand,sandstone,gravel
